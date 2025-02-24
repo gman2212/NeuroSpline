@@ -1,0 +1,9 @@
+{
+  "WorldSize": { "X": 1000, "Y": 1000, "Z": 0 },  
+  "StartPoint": { "X": 50, "Y": 50, "Z": 0 },  
+  "EndPoint": { "X": 950, "Y": 950, "Z": 0 },  
+  "Obstacles": [  
+    { "Type": "Tree", "Position": { "X": 300, "Y": 400, "Z": 0 }, "Radius": 20 },  
+    { "Type": "Rock", "Position": { "X": 600, "Y": 700, "Z": 0 }, "Radius": 30 }
+  ]
+}

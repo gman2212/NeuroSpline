@@ -1,0 +1,25 @@
+Generate an optimal road spline path that avoids obstacles while minimizing length and ensuring smooth curvature.
+
+
+Output Format:
+- A JSON object with the following structure:
+  {
+    "SplineId": <int>,
+    "SplinePoints": [
+      { "Index": <int>, "Position": { "X": <float>, "Y": <float>, "Z": <float> }, "Tangent": { "X": <float>, "Y": <float>, "Z": <float> } },
+      ...
+    ]
+  }
+
+Constraints:
+- The path must be smooth with minimal sharp turns.
+- The path must be the shortest possible while avoiding obstacles.
+- Each spline point should have a calculated tangent to guide smooth transitions.
+
+Reasoning Requirement:
+- Explain the reasoning behind the generated path, including:
+  - How obstacles were avoided.
+  - How smoothness was maintained.
+  - How the shortest path was achieved.
+
+Print the json and the reasoning on different lines.
