@@ -11,6 +11,8 @@ SplineGen is a Python-based tool for generating and visualizing optimal spline p
   -  **Processing Time** (How fast does it generate a response?)
   -  **Z-axis Handling** (Is Z-axis used correctly?)
 
+
+##Installation
 1. Clone the repository
    ```commandline
    git clone https://github.com/YOUR_USERNAME/SplineGen.git
