@@ -60,8 +60,8 @@ def evaluate_output_json(output_file, input_file):
     return metrics
 
 def main():
-    output_file = r"C:\Users\govin\OneDrive\Desktop\LLM2\output.json" # Replace with actual output file path
-    input_file = r"C:\Users\govin\OneDrive\Desktop\LLM2\Inputfile.json"  # Replace with actual input file path
+    output_file =  # Replace with actual output file path
+    input_file =   # Replace with actual input file path
     
     results = evaluate_output_json(output_file, input_file)
     
