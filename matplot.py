@@ -18,4 +18,4 @@ def plot_spline(output_file):
     plt.show()
 
 # Run the plot
-plot_spline(r"C:\Users\govin\OneDrive\Desktop\LLM2\runop.json")
+plot_spline(r""C:\Users\govin\OneDrive\Desktop\LLM2\output.json"")
