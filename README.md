@@ -17,7 +17,7 @@ SplineGen is a Python-based tool for generating and visualizing optimal spline p
    ```commandline
    ollama serve
    ```
-If the models aren't installed, pull them:
+   If the models aren't installed, pull them:
    ```commandline
    ollama pull llama3
    ollama pull deepseek
