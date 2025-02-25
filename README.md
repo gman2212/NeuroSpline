@@ -5,5 +5,15 @@ SplineGen is a Python-based tool for generating and visualizing optimal spline p
 1. Clone the repository
    ```commandline
    git clone https://github.com/YOUR_USERNAME/SplineGen.git
-cd SplineGen
-```
+   cd SplineGen
+   ```
+2. Install Dependencies
+   ```commandline
+   pip install ollama
+   pip install requests
+   pip install ollama
+   ```
+3. Start Ollama Server
+   ```commandline
+   ollama serve
+   ```
