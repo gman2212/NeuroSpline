@@ -22,3 +22,7 @@ SplineGen is a Python-based tool for generating and visualizing optimal spline p
    ollama pull llama3
    ollama pull deepseek
    ```
+4. Run the AI Path Generator
+   ```commandline
+   python pathfinder.py
+   ```
