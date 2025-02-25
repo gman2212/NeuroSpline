@@ -37,7 +37,7 @@ SplineGen is a Python-based tool for generating and visualizing optimal spline p
    ```
 5. Run Evaluation
   ```sh
-  python metrics.py
+    python metrics.py
   ```
   This script evaluates the generated path and outputs `evaluation_results.json`
 
