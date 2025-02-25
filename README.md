@@ -1,5 +1,5 @@
 # NeuroSpline
-SplineGen is a Python-based tool for generating and visualizing optimal spline paths using AI models like LLAMA and DeepSeek via the Ollama API. It reads environment data, processes JSON outputs, and provides visualization options in Matplotlib and Unreal Engine.
+SplineGen is a Python-based tool for generating and visualizing optimal spline paths using AI models like LLAMA and DeepSeek via the Ollama API(You can use any Model that is compatible with Ollama). It reads environment data, processes JSON outputs, and provides visualization options in Matplotlib and Unreal Engine.
 
 
 1. Clone the repository
@@ -16,4 +16,9 @@ SplineGen is a Python-based tool for generating and visualizing optimal spline p
 3. Start Ollama Server
    ```commandline
    ollama serve
+   ```
+If the models aren't installed, pull them:
+   ```commandline
+   ollama pull llama3
+   ollama pull deepseek
    ```
