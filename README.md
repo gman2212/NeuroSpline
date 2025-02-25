@@ -8,7 +8,6 @@ SplineGen is a Python-based tool for generating and visualizing optimal spline p
   -  **Consistency** (Does it reliably avoid obstacles?)
   -  **Accuracy** (Does it follow constraints from the input JSON?)
   -  **Output Structure** (Is the JSON valid?)
-  -  **Processing Time** (How fast does it generate a response?)
   -  **Z-axis Handling** (Is Z-axis used correctly?)
 
 
