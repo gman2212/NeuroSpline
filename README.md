@@ -44,3 +44,7 @@ SplineGen is a Python-based tool for generating and visualizing optimal spline p
 
 
    The Matplot visualization will look like this.
+
+
+## License
+This project is open-source under the MIT License.
