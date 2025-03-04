@@ -74,8 +74,8 @@ def select_best_response(response1, response2):
         return response1
 
 def main():
-    input_file =  # Replace with actual input JSON path
-    prompt_file =  # Replace with actual prompt file path
+    input_file =  # Replace with input JSON path
+    prompt_file =  # Replace with prompt file path
     
     input_data = read_input_json(input_file)
     prompt = read_prompt_file(prompt_file)
