@@ -13,7 +13,7 @@ SplineGen is a Python-based tool for generating and visualizing optimal spline p
 ## Installation
 1. Clone the repository
    ```commandline
-   git clone https://github.com/YOUR_USERNAME/SplineGen.git
+   git clone https://github.com/gman2212/SplineGen.git
    cd SplineGen
    ```
 2. Install Dependencies
