@@ -6,7 +6,6 @@ SplineGen is a Python-based tool for generating and visualizing optimal spline p
 - **Uses Ollama API** to query models for optimal path generation.
 - **Evaluates paths** based on:
   -  **Consistency** (Does it reliably avoid obstacles?)
-  -  **Accuracy** (Does it follow constraints from the input JSON?)
   -  **Output Structure** (Is the JSON valid?)
   -  **Z-axis Handling** (Is Z-axis used correctly?)
 
