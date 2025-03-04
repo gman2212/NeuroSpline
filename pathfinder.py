@@ -83,7 +83,8 @@ def main():
     # Query both models
     response_llama = query_ollama("llama3", prompt, input_data)
     response_deepseek = query_ollama("deepseek-r1", prompt, input_data)
-    
+    #You can use any model that is compatible with Ollama like Mistral,phi4 etc, make sure you pull these models.
+   
     # Select the best response
     best_response = select_best_response(response_llama, response_deepseek)
     
